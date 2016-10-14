@@ -35,7 +35,6 @@ matb33:collection-hooks       	# hooks for before or after touching db
 accounts-base                 	# create users
 accounts-password             	# create users with password
 accounts-ui        				# add login buttons
-
 alanning:roles                	# add roles to users
 
 # TEMPLATE PACKAGES
