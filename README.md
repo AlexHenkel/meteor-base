@@ -1,4 +1,4 @@
-# meteor-base
+# meteor-boilerplate
 This is a boilerplate for start creating awesome app with **MeteorJS**. It includes basic packages that most of the time you need to develop your application, such as _routing_, _collections_, _SASS support_, _email support_ and much more. It also contains an extended file structure out-of-the-box.
 
 Just clone this repo and start developing your next app right now.
