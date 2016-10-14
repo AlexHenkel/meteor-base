@@ -99,62 +99,62 @@ Here are all the packages included:
 
 ### Front-end
 
-**twbs:bootstrap**: Add bootstrap framework to the project
-**seba:minifiers-autoprefixer**: Add SASS minifier.
-**fourseven:scss**: Enable SASS support. Every SASS file in the client will be compiled out-of-the box.
++ **twbs:bootstrap**: Add bootstrap framework to the project
++ **seba:minifiers-autoprefixer**: Add SASS minifier.
++ **fourseven:scss**: Enable SASS support. Every SASS file in the client will be compiled out-of-the box.
 
 ### Collections
 
-**aldeed:collection2**: Excellent package to support schemas in your MongoDB collections.
-**aldeed:autoform**: Create automatic forms from collection2 schemas.
-**matb33:collection-hooks**: Add hookers before and after inserting, updating or deleting in the database.
++ **aldeed:collection2**: Excellent package to support schemas in your MongoDB collections.
++ **aldeed:autoform**: Create automatic forms from collection2 schemas.
++ **matb33:collection-hooks**: Add hookers before and after inserting, updating or deleting in the database.
 
 ### Accounts
 
-**accounts-base**: Meteor's user account system. 
-**accounts-password**: Add password to user accounts
-**accounts-ui**: Add login buttons with just `{{> loginButtons}}`
-**alanning:roles**: Add roles support for users.
++ **accounts-base**: Meteor's user account system. 
++ **accounts-password**: Add password to user accounts
++ **accounts-ui**: Add login buttons with just `{{> loginButtons}}`
++ **alanning:roles**: Add roles support for users.
 
 ### Template
 
-**aldeed:template-extension**: Boost templates. (Eg. Overwritting templates)
-**raix:handlebar-helpers**: Access different variables without creating helpers (Eg. `{{> $.Session }}`)
++ **aldeed:template-extension**: Boost templates. (Eg. Overwritting templates)
++ **raix:handlebar-helpers**: Access different variables without creating helpers (Eg. `{{> $.Session }}`)
 
 ### Images
 
-**cfs:standard-packages**: Image uploading support.
-**cfs:gridfs** 	
++ **cfs:standard-packages**: Image uploading support.
++ **cfs:gridfs** 	
 
 ### Email
 
-**email**: Allow sending email. Check documentation to configure email client.
-**meteorhacks:ssr**: Allow server side rendering, which can be used to render html templates to send emails.
++ **email**: Allow sending email. Check documentation to configure email client.
++ **meteorhacks:ssr**: Allow server side rendering, which can be used to render html templates to send emails.
 
 ### General
 
-**erasaur:meteor-lodash**: Useful javascript helpers. Check documentation
-**meteortoys:allthings**: Collection inspector in the browser by pressing 'ctrl + m'.
++ **erasaur:meteor-lodash**: Useful javascript helpers. Check documentation
++ **meteortoys:allthings**: Collection inspector in the browser by pressing 'ctrl + m'.
 
 ### Additional packages
 
 Here are some other useful packages you may want to consider, but are not included.
 
-**less**: LESS support
-**useraccounts:unstyled**: Custom login buttons
-**zimme:active-route**: Check for active route in templates
-**fontawesome:fontawesome**: Fontawesome icon library
-**vazco:universe-selectize**: Autocomplete select input
-**vazco:universe-autoform-select**: Autocomplete select optimized for autoform
-**drewy:datetimepicker**: Datetimepicker (It's the only one not using bootstrap).
-**drewy:autoform-datetimepicker**: Datetimepicker compatible with autoform
-**kevohagan:sweetalert**: Add pretty alerts
-**momentjs:moment**: Prettify dates
-gwendall:auth-client-callbacks	# add login callbacks on the client
++ **less**: LESS support
++ **useraccounts:unstyled**: Custom login buttons
++ **zimme:active-route**: Check for active route in templates
++ **fontawesome:fontawesome**: Fontawesome icon library
++ **vazco:universe-selectize**: Autocomplete select input
++ **vazco:universe-autoform-select**: Autocomplete select optimized for autoform
++ **drewy:datetimepicker**: Datetimepicker (It's the only one not using bootstrap).
++ **drewy:autoform-datetimepicker**: Datetimepicker compatible with autoform
++ **kevohagan:sweetalert**: Add pretty alerts
++ **momentjs:moment**: Prettify dates
++ **gwendall:auth-client-callbacks**:	Add login callbacks on the client
 
 
 ## Credits
 
-Alejandro Henkel [alehenkel17@gmail.com](mailto:alehenkel17@gmail.com)
-[@henkel0](https://twitter.com/henkel0)
+Alejandro Henkel [alehenkel17@gmail.com](mailto:alehenkel17@gmail.com)  
+[@henkel0](https://twitter.com/henkel0)  
 [LinkedIn Profile](https://mx.linkedin.com/in/alejandrohenkel/en)
